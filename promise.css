@@ -1,0 +1,14 @@
+#imageContainer {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #loadingText {
+    display: none;
+  }
+  
+  #loadedImage {
+    max-width: 100%;
+    max-height: 400px;
+    margin-top: 20px;
+  }
